@@ -125,7 +125,7 @@ function App() {
           </h1>
           <img src={Sanjeev} className="rounded-xl drop-shadow-2xl"/>
           <p className="text-l p-10 m-5 sm:text-3xl sm:p-5 sm:px-64">
-            I am an EE undergrad at the University of Michigan. I am currently interested in locally-deployed AI (Edge AI) and FPGA design to create ultra-low latency AI servers.
+            I am an EE undergrad at the University of Michigan. I am currently interested in locally-deployed AI and FPGA design to create ultra-low latency servers.
             I am experimenting with PCB design (Altium and kicad), ML Libraries (Pytorch), and . Currently, I am on the haptics and sensors team in Michigan Neuroprosthetics, where I am researching sensor inputs for long-term prosthetic users.
             I am also on the Embedded Hardware for the Michigan Mars Rover team, where I designed a 5V LDO circuit and learned to use Altium. 
             Beyond hardware, I am currently learning C++ and Rust, and working on projects with PyTorch and other ML platforms. 
